@@ -1,7 +1,9 @@
+# Perfil
+
 - @IsCorvo
-- Crescer 
-- Programação HTML5, Buscando conhecimento sozinho.
-- Crecimento 
+- Futuro Software Enginer
+- Programação, Buscando conhecimento sozinho.
+- Programando com JS e Python.
 - e-mail - franciscocalebe@gmail.com
 
 <!---
