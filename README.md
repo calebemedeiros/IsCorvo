@@ -2,9 +2,9 @@
 
 - @IsCorvo
 - Futuro Software Enginer
-- Programação, Buscando conhecimento sozinho.
+- Programação, Buscando conhecimento sozinho. (Mas sempre em algum curso!!)
 - Programando com JS e Python.
-- e-mail - franciscocalebe@gmail.com
+- E-mail - franciscocalebe@gmail.com
 
 <!---
 IsCorvo/IsCorvo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
