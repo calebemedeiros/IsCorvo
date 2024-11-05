@@ -3,7 +3,8 @@
 - @IsCorvo
 - Futuro Software Enginer
 - Programação, Buscando conhecimento sozinho. (Mas sempre em algum curso!!)
-- Programando com JS e Python.
+- Programando com JS.
+- Aprendendo ReactJS, ReactNative, Next, Angular.
 - E-mail - franciscocalebe@gmail.com
 
 <!---
