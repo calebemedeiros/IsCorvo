@@ -41,7 +41,7 @@
 
 ### 🌟 **Projetos em Destaque**
 
-- **[Meus Projetos](https://github.com/seuusuario?tab=repositories)**
+- **[Meus Projetos](https://github.com/calebemedeiros?tab=repositories)**
 
 ---
 
