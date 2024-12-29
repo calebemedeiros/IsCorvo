@@ -40,9 +40,8 @@
 ---
 
 ### 🌟 **Projetos em Destaque**
-- **[Projeto 1](https://github.com/seuusuario/projeto1)**: Descrição breve.
-- **[Projeto 2](https://github.com/seuusuario/projeto2)**: Descrição breve.
-- **[Mais Projetos](https://github.com/seuusuario?tab=repositories)**
+
+- **[Meus Projetos](https://github.com/seuusuario?tab=repositories)**
 
 ---
 
